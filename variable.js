@@ -1,5 +1,5 @@
 // Variable can some information and here var is a keyword 
-// for creating a variable
+// for creating a variable and it is case sensitive
 
 var firstname = "Simran";
 console.log(firstname);
